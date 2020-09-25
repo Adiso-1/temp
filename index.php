@@ -1,2 +1,2 @@
-$var = 'Hello world!';
+$var = 'hello world!';
 print @var;
